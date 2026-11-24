@@ -1,0 +1,1 @@
+Today I re-submitted a site generator that runs 42% faster — same output, byte for byte, in 233 milliseconds. A small win, but it felt like tuning an engine until it hummed.
